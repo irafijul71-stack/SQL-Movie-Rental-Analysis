@@ -19,7 +19,7 @@ The main objectives of this project are to:
 
 ## 🖼️ Query Preview
 
-Image/sql-query-preview.png
+![Dashboard Preview](Image/sql-query-preview.png)
 
 ## 🔍 SQL Concepts Demonstrated
 
